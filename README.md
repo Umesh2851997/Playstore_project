@@ -39,22 +39,36 @@ This file contains all the details of the apps on Google Play. There are 13 feat
 
 **App: Name of the app
 Category: Category of the app. Some examples are: ART_AND_DESIGN, FINANCE, COMICS, BEAUTY etc.
+
 Rating: The current average rating (out of 5) of the app on Google Play
+
 Reviews: Number of user reviews given on the app
+
 Size: Size of the app in MB (megabytes)
+
 Installs: Number of times the app was downloaded from Google Play
+
 Type: Whether the app is paid or free
+
 Price: Price of the app in US$
+
 Content Rating: A content rating (also known as maturity rating) rates the suitability of TV broadcasts, movies, comic books, or video games to its audience.To show which age group is suitable to view media and entertainment.
+
 Genres: A category of artistic, musical, or literary composition characterized by a particular style, form, or content
+
 Last Updated: Date on which the app was last updated on Google Play
+
 Current Ver: Current Version means a version of the software that is currently being supported by its publisher.
+
 Android Ver: Android versions (codenames) are used to describe the various updates for the open source Android mobile operating system.**
 
 This document showcases a selection of the top 100 first-user evaluations for each app. Each category's distribution of favorable and unfavorable reviews has been pre-processed and run through a sentiment analyzer.
 **
 App: Name of the app on which the user review was provided. Matches the App column of the play_store_data.csv file
+
 Translated Review: The pre-processed user review text.
+
 Sentiment: Sentiment category of the user review - Positive, Negative or Neutral.
+
 Sentiment Polarity: Sentiment score of the user review.**
 
